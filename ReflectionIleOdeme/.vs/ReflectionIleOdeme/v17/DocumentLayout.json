@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\eft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\havale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\kredikart\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\kredikart\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|c:\\users\\b\u00FC\u015Fra a\u011Fta\u015F\\desktop\\reflection\\reflectionileodeme\\reflectionileodeme\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36A98228-195F-41F9-B4FA-813F85273F1F}|ReflectionIleOdeme\\ReflectionIleOdeme.csproj|solutionrelative:reflectionileodeme\\iodemeyontemi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Form1.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\Form1.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Form1.cs",
+              "RelativeToolTip": "ReflectionIleOdeme\\Form1.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:46:20.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFT.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\EFT.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\EFT.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\EFT.cs",
+              "RelativeToolTip": "ReflectionIleOdeme\\EFT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:45:40.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Havale.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Havale.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\Havale.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Havale.cs",
+              "RelativeToolTip": "ReflectionIleOdeme\\Havale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:44:55.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KrediKart\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\KrediKart\u0131.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\KrediKart\u0131.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\KrediKart\u0131.cs",
+              "RelativeToolTip": "ReflectionIleOdeme\\KrediKart\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:44:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOdemeYontemi.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\IOdemeYontemi.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\IOdemeYontemi.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\IOdemeYontemi.cs",
+              "RelativeToolTip": "ReflectionIleOdeme\\IOdemeYontemi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:43:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Form1.cs",
+              "RelativeDocumentMoniker": "ReflectionIleOdeme\\Form1.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra A\u011Fta\u015F\\Desktop\\Reflection\\ReflectionIleOdeme\\ReflectionIleOdeme\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "ReflectionIleOdeme\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:41:03.293Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
