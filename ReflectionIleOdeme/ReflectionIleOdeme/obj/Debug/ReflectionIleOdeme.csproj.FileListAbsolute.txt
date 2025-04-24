@@ -1,0 +1,10 @@
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\bin\Debug\ReflectionIleOdeme.exe.config
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\bin\Debug\ReflectionIleOdeme.exe
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\bin\Debug\ReflectionIleOdeme.pdb
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.csproj.AssemblyReference.cache
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.Form1.resources
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.Properties.Resources.resources
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.csproj.GenerateResource.cache
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.csproj.CoreCompileInputs.cache
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.exe
+C:\Users\Büşra Ağtaş\Desktop\Reflection\ReflectionIleOdeme\ReflectionIleOdeme\obj\Debug\ReflectionIleOdeme.pdb

@@ -64,7 +64,7 @@
             // lblSonuc
             // 
             this.lblSonuc.AutoSize = true;
-            this.lblSonuc.Location = new System.Drawing.Point(357, 256);
+            this.lblSonuc.Location = new System.Drawing.Point(264, 257);
             this.lblSonuc.Name = "lblSonuc";
             this.lblSonuc.Size = new System.Drawing.Size(44, 16);
             this.lblSonuc.TabIndex = 3;
@@ -75,23 +75,24 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(142, 39);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(119, 16);
+            this.label1.Size = new System.Drawing.Size(125, 16);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Ödeme Yöntemleri";
+            this.label1.Text = "Ödeme Yöntemleri :";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(204, 116);
+            this.label2.Location = new System.Drawing.Point(217, 116);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 16);
+            this.label2.Size = new System.Drawing.Size(44, 16);
             this.label2.TabIndex = 5;
-            this.label2.Text = "Tutar";
+            this.label2.Text = "Tutar :";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
